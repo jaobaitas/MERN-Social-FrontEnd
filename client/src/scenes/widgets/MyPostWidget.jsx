@@ -46,13 +46,16 @@ const MyPostWidget = ({ picturePath, postPath }) => {
       formData.append("picturePath", image.name);
     }
 
-    const response = await fetch(`http://localhost:3001/posts`, {
-      method: "POST",
-      headers: { Authorization: `Bearer ${token}` },
-      body: formData,
-    });
+    const response = await fetch(
+      `https://mern-social-app-api-hckq.onrender.com:3001/posts`,
+      {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}` },
+        body: formData,
+      }
+    );
     if (response.status === 201) {
-      let feedURL = `http://localhost:3001/post`;
+      let feedURL = `https://mern-social-app-api-hckq.onrender.com/post`;
       if (postPath === "profilePage") {
         feedURL += `/${_id}/posts`;
       }
