@@ -13,4 +13,5 @@ No Front-end: React como framework, react router para navegação, Formik e Yup 
 e validação de registros, Redux Toolkit para gerenciamento de estado com Redux Persist para guardar informações locais e React dropzone para upload de imagens.
 No Back-end: Node.js como runtime, Express.js como framework. Mongoose para gerenciar o banco de dados, JWT para autenticação e Multer para upload de imagens.
 
-https://mern-social-app-uit1.onrender.com
+<h1><a href="https://mern-social-app-uit1.onrender.com">Live Preview</a></h1>
+![Login](https://user-images.githubusercontent.com/95724952/218895141-d09642f1-7003-4537-841e-80bdb087f5f0.PNG)
