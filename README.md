@@ -15,4 +15,17 @@ No Back-end: Node.js como runtime, Express.js como framework. Mongoose para gere
 
 <h1><a href="https://mern-social-app-uit1.onrender.com">Live Preview</a></h1>
 
+Página de login
+
 ![Login](https://user-images.githubusercontent.com/95724952/218895141-d09642f1-7003-4537-841e-80bdb087f5f0.PNG)
+
+Página de registro
+
+![signup](https://user-images.githubusercontent.com/95724952/218895254-e4d79ebc-0358-4eb2-88ef-655dda88bc21.PNG)
+
+Página principal
+
+![homepage](https://user-images.githubusercontent.com/95724952/218895293-89726d3e-c74f-4c1b-a8af-c8455fdcb434.PNG)
+
+Página princiapl dark mode
+![homepageDark](https://user-images.githubusercontent.com/95724952/218895345-2a6524c4-27af-42c1-ae46-75f9638987f3.PNG)
