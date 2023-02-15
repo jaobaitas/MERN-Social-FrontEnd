@@ -15,6 +15,8 @@ No Back-end: Node.js como runtime, Express.js como framework. Mongoose para gere
 
 <h1><a href="https://mern-social-app-uit1.onrender.com">Live Preview</a></h1>
 
+<h1><a href="https://lucid.app/publicSegments/view/f060785c-38e4-4ebd-8880-a893e129f1ea/image.png">Data Model</a></h1>
+
 Página de login
 
 ![Login](https://user-images.githubusercontent.com/95724952/218895141-d09642f1-7003-4537-841e-80bdb087f5f0.PNG)
