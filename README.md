@@ -28,4 +28,5 @@ Página principal
 ![homepage](https://user-images.githubusercontent.com/95724952/218895293-89726d3e-c74f-4c1b-a8af-c8455fdcb434.PNG)
 
 Página princiapl dark mode
+
 ![homepageDark](https://user-images.githubusercontent.com/95724952/218895345-2a6524c4-27af-42c1-ae46-75f9638987f3.PNG)
