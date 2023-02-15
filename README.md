@@ -12,3 +12,5 @@ Tecnologias usadas: MERN Stack (MongoDB, Express.js, React,js e Node.js).
 No Front-end: React como framework, react router para navegação, Formik e Yup para registrar
 e validação de registros, Redux Toolkit para gerenciamento de estado com Redux Persist para guardar informações locais e React dropzone para upload de imagens.
 No Back-end: Node.js como runtime, Express.js como framework. Mongoose para gerenciar o banco de dados, JWT para autenticação e Multer para upload de imagens.
+
+https://mern-social-app-uit1.onrender.com
